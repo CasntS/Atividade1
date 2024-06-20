@@ -11,5 +11,5 @@ e eu aprendi nessa matéria como criar os atributos e variáveis em C.
 
 College Algorithm and Programming Activity
 
-I created the code from the ground, I understand how valuable is the comments on a code
+I created the code from the ground, I understood how valuable is the comments on a code
 and I learned in this subject how to create atributes and variables in C.
